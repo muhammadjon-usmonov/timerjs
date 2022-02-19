@@ -1,0 +1,29 @@
+.clock{
+  display: flex;
+  max-width: 110px;
+  margin: 0 auto;
+  border: 1px solid black;
+  text-align: center;
+  border-radius: 10px;
+}
+
+span{
+  font-size: 20px;
+  line-height: 22px;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+p{
+  margin: 0;
+  margin: 0 10px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.img{
+  position: absolute;
+  top: 200px;
+  left: 20px;
+}
